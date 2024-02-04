@@ -1,4 +1,4 @@
-# Запустите Docker контейнер с помощью команды:
+# Запуск Docker контейнера с помощью команды:
 ```docker run -e urls="https://go.dev/copyright, https://go.dev/tos" -e search="go" [app name]```
 # В данной команде:
 -e urls="https://go.dev/copyright, https://go.dev/tos": Указывает список URL-адресов для обработки приложением.
